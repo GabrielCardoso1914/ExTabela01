@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: WHITE;
+}
+table{
+   border-collapse: collapse;
+}
+th, td{
+    padding: 20px;
+    border: 1px #FFFFFF solid;
+}
+.td-endereco{
+    background-color: #F5F7FA;
+    color: black;
+}
+th:nth-child(1){
+    background-color: #F2F2F2;
+    color: black;
+}
+th:nth-child(3){
+    background-color: #E7516C;
+    color: white;
+}
+th:nth-child(2){
+    background-color:#555C66;
+    color: white;
+}
+th:nth-child(4){
+    background-color:#70CF69;
+    color: white;
+}
+.card-button1{
+   width: 100%;
+   padding: 10px;
+   background-color: #ffffff;
+   color: black;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.card-button2{
+   width: 100%;
+   padding: 10px;
+   background-color: #E7516C;
+   color: #ffffff;
+   border-radius: 5px;
+   cursor: pointer;
+}

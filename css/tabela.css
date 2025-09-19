@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: WHITE;
+}
+table{
+   border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+    border: 1px #C9C9C9 solid;
+}
+th{
+    background-color: #FFFFFF;
+    color: black;
+}
+.card-button1{
+   width: 100%;
+   padding: 10px;
+   background-color: #7EBFF2;
+   color: #8357AA;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.card-button2{
+   width: 100%;
+   padding: 10px;
+   background-color: #4A87EC;
+   color: #ffffff;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.card-button3{
+   width: 100%;
+   padding: 10px;
+   background-color: #7073EC;
+   color: #ffffff;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.td-p1{
+background-color: #7EBFF2;
+font-size: 60px;
+color: white;
+}
+.td-p2{
+background-color: #4A87EC;
+font-size: 60px;
+color: white;
+}
+.td-p3{
+background-color: #7073EC;
+font-size: 60px;
+color: white;
+}
